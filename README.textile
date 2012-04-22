@@ -1,0 +1,6 @@
+La kata consiste en dividir una frase (en este caso extra’da del discurso de Gettysburg) en l’neas de menos de 13 caracteres.
+
+La kata est‡ basada en el problema planteado por Uncle Bob en el post "Why is estimating so hard":http://blog.8thlight.com/uncle-bob/2012/04/20/Why-Is-Estimating-So-Hard.html
+
+En el post se describe el problema de que las estimaciones no pueden    basarse en la aparente simplicidad de como los humanos podemos  resolver un problema sencillo. Resolver el problema en un ordenador  requiere llevar dicha resoluci—n a un sistema procedural y esta tarea resulta a veces complicada. 
+El post termina con una gran frase: ??And if anyone tries to tell you that your estimate is bogus because the task is so simple, ask them to write down the procedure for tying their shoes.??
